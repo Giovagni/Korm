@@ -167,7 +167,8 @@
                         android:text="Problemi"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:textSize="18sp" />
+                        android:textSize="18sp"
+                        android:layout_marginTop="20dp"/>
                 </android.support.design.widget.TextInputLayout>
 
                 <Spinner
