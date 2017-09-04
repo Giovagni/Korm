@@ -118,7 +118,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:gravity="center_vertical|right"
-                        android:textSize="20sp" />
+                        android:textSize="24sp"
+                        android:visibility="gone"/>
                 </android.support.design.widget.TextInputLayout>
             </TableRow>
             <TableRow
