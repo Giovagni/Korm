@@ -35,7 +35,7 @@ public class BluetoothLeService extends Service {
     private Handler mHandler;
     // Stops scanning after 10 seconds.
     private static int SCAN_PERIOD = 10000;
-    private static int PAUSE_PERIOD = 5000;
+    private static int PAUSE_PERIOD = 2000;
 
     private int mConnectionState = STATE_DISCONNECTED;
     private static final int STATE_DISCONNECTED = 0;

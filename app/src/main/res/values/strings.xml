@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Korm</string>
-    <string name="ip">192.168.1.83</string>
+    <string name="ip">172.23.136.238</string>
     <string name="porta">8080</string>
     <string name="soglia">60</string>
 
